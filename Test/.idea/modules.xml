@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3DCubeTest/3DCubeTest.iml" filepath="$PROJECT_DIR$/3DCubeTest/3DCubeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypitcureapp/mypitcureapp.iml" filepath="$PROJECT_DIR$/mypitcureapp/mypitcureapp.iml" />
+    </modules>
+  </component>
+</project>

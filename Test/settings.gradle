@@ -1,0 +1,1 @@
+include ':mypitcureapp', ':myapplication', ':3DCubeTest'
